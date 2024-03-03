@@ -1,4 +1,4 @@
-public class NumberPermutation{
+public class NumberPermutations {
     public static void main(String[] args) {
 //        GreaterPermutation num = new GreaterPermutation();
         getPermutation(123);

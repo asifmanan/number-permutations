@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/NumberPermutation.iml" filepath="$PROJECT_DIR$/NumberPermutation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumberPermutations.iml" filepath="$PROJECT_DIR$/NumberPermutations.iml" />
     </modules>
   </component>
 </project>
